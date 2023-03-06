@@ -1,4 +1,4 @@
-## Flask IOT Framework
+## Flask IOT Communication Framework
 ### Flask, SocketIO, and MQTT all in one
 
 ```console
